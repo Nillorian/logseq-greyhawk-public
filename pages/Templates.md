@@ -1,0 +1,209 @@
+- template:: pc
+  collapsed:: true
+	- type:: dnd-pc
+	- public:: true
+	- BILD
+	- ## Ueberblick
+		- **Spezies**:
+		- **Klasse**:
+		- **Groesse**:
+		- **Hintergrund**:
+		- **Markante Feature**:
+		- **Alter**:
+	- ## Iconic sayings
+	- ## History
+		- background
+	- ## Motivation und Ziele
+	- ## Beziehungen
+	- ## Szenes
+	- ## Journals
+		- list of written journals
+	- ## Equipment
+		- custom magic items
+	- ## Secrets (intern, nicht oeffentlich ausfuellen)
+	- ## Tags
+		- #dnd-pc
+
+- template:: npc
+  collapsed:: true
+	- type:: npc
+	- public:: true
+	- ## Ueberblick
+		- aussehen und wirkung
+		- aktuelle haltung zur gruppe
+	- ## So spielst du die Figur
+		- stimme und verhalten
+		- ziele und beduerfnisse
+		- druckpunkte
+	- ## Was diese Figur weiss
+		- oeffentliche informationen
+		- geheime informationen (intern, nicht oeffentlich)
+	- ## Szenen
+		- aktive szenen
+	- ## Auftraege
+		- 1. **Titel des Auftrags**
+			- **Aufgabe:**
+			- **Erfolgskriterium:**
+			- **Warum:**
+			- **Belohnung:**
+		- 2. **Titel des Auftrags**
+			- **Aufgabe:**
+			- **Erfolgskriterium:**
+			- **Warum:**
+			- **Belohnung:**
+		- aktive aufhaenger
+		- quest-links
+	- ## Verbindungen
+		- verknuepfte orte
+		- verknuepfte npcs
+		- tags
+	- ## Notizen
+
+- template:: statblock
+  collapsed:: true
+	- type:: statblock
+	- public:: true
+	- ## Ueberblick
+		- name und titel
+		- groesse, typ und gesinnung
+		- rk, tp und geschwindigkeit
+	- ## Werte
+		- attributtabelle oder kompakte wertezeile
+		- rettungswuerfe, fertigkeiten, sinne, sprachen
+		- herausforderungsgrad und uebungsbonus
+	- ## Eigenschaften
+	- ## Zauberwirken
+	- ## Aktionen
+	- ## Reaktionen
+	- ## Ausruestung
+	- ## Taktiken
+	- ## Bilder und Quellen
+	- ## Verknuepfungen und Notizen
+
+- template:: location
+  collapsed:: true
+	- type:: location
+	- public:: true
+	- ## Ueberblick
+		- bild oder kurze atmosphaerebeschreibung (1-3 zeilen)
+		- was spieler sofort bemerken
+	- ## Anwesende
+		- wichtige aktuell anwesende npcs
+		- regelmaessige gaeste
+	- ## Szenen
+		- aktive szenen
+	- ## Auftraege
+		- 1. **Titel des Auftrags**
+			- **Aufgabe:**
+			- **Erfolgskriterium:**
+			- **Warum:**
+			- **Belohnung:**
+		- quest-hooks
+	- ## Dienste und Ressourcen
+		- was man kaufen kann
+		- nuetzliche kontakte
+	- ## Geheimnisse (intern, nicht oeffentlich)
+	- ## Verbindungen
+		- verknuepfte orte
+		- verknuepfte fraktionen
+		- tags
+	- ## Layout und Raeume
+		- uebersicht der bereiche
+		- raumnutzung und zugaenge
+		- besondere details pro raum
+	- ## Hintergrund und Details
+
+- template:: faction
+  collapsed:: true
+	- type:: faction
+	- public:: true
+	- ## Ueberblick
+		- kernidentitaet
+		- wie sie auf aussenstehende wirken
+	- ## Ziele
+		- kurzfristige ziele
+		- langfristige ziele
+	- ## Methoden und Ressourcen
+	- ## Schluesselfiguren
+	- ## Verbuendete und Gegner
+	- ## Szenen
+	- ## Auftraege
+		- 1. **Titel des Auftrags**
+			- **Aufgabe:**
+			- **Erfolgskriterium:**
+			- **Warum:**
+			- **Belohnung:**
+	- ## Geheimnisse (intern, nicht oeffentlich)
+	- ## Verbindungen und Tags
+
+- template:: item
+  collapsed:: true
+	- type:: item
+	- public:: true
+	- ## Ueberblick
+		- bild oder kurzbeschreibung
+		- was beim ersten blick auffaellt
+	- ## Sichtbarer Effekt
+	- ## Verborgener Effekt (intern, nicht oeffentlich)
+	- ## Herkunft und Besitz
+	- ## Verbindungen und Tags
+	- ## Notizen
+
+- template:: scene
+  collapsed:: true
+	- type:: scene
+	- public:: true
+	- ## Ueberblick
+		- szenen-pitch in einer zeile
+		- wo und wann
+	- ## Ausloeser
+	- ## Beteiligte
+	- ## Ablaufoptionen
+	- ## Ergebnisse und Konsequenzen
+	- ## Folgeverweise
+	- ## Notizen (intern, nicht oeffentlich)
+
+- template:: quest-hook
+  collapsed:: true
+	- type:: quest-hook
+	- public:: true
+	- ## Ueberblick
+		- pitch (1-2 zeilen)
+		- dringlichkeit
+		- was die gruppe tun soll
+		- warum das wichtig ist
+		- was die gruppe bekommt
+	- ## Auftraggeber
+	- ## Ziel
+	- ## Einstiegspunkte
+	- ## Komplikation
+	- ## Belohnung
+	- ## Folgeverweise
+	- ## Tags
+
+- template:: story-node-map
+  collapsed:: true
+	- type:: story-node-map
+	- public:: true
+	- ## Ueberblick
+		- umfang (ort, region oder handlungsbogen)
+		- aktuelle spannung
+	- ## Knotenliste
+	- ## Klare Spuren
+	- ## Vage Spuren
+	- ## Geheimnisse (intern, nicht oeffentlich)
+	- ## Schnellmatrix (Von -> Fuehrt zu)
+	- ## Verbindungen und Tags
+
+- template:: session-note
+  collapsed:: true
+	- type:: session-note
+	- public:: true
+	- ## Ueberblick
+		- datum und ingame-zeit
+		- aktuelles gruppenziel
+	- ## Aktuelle Situation
+	- ## Gewonnene Informationen
+	- ## Offene Faeden
+	- ## Naechste moegliche Szenen
+	- ## Tags

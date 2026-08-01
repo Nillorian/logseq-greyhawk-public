@@ -1,3 +1,3 @@
 # Quests
 
-Aktive und abgeschlossene Auftraege aus Spielersicht.
+Aktive und abgeschlossene Aufträge aus Spielersicht.

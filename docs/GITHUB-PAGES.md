@@ -1,7 +1,7 @@
-# GitHub Pages Setup fuer den Public Graph
+# GitHub Pages Setup für den Public Graph
 
 ## Ziel
-Nach jedem Push auf `main` wird die Seite automatisch gebaut und auf GitHub Pages veroeffentlicht.
+Nach jedem Push auf `main` wird die Seite automatisch gebaut und auf GitHub Pages veröffentlicht.
 
 ## 1. GitHub Repository verbinden
 
@@ -13,7 +13,7 @@ git branch -M main
 git remote add origin https://github.com/DEIN_USER/DEIN_REPO.git
 ```
 
-Falls ein Remote existiert, nur pruefen:
+Falls ein Remote existiert, nur prüfen:
 
 ```bash
 git remote -v
@@ -29,7 +29,7 @@ git push -u origin main
 
 ## 3. GitHub Pages im Repo aktivieren
 
-1. GitHub Repo oeffnen.
+1. GitHub Repo öffnen.
 2. Settings -> Pages.
 3. Source auf `GitHub Actions` setzen.
 4. Speichern.
@@ -54,11 +54,11 @@ Die Seite ist danach unter folgender URL erreichbar:
 ## Troubleshooting
 
 - Build-Fehler ansehen: GitHub -> Actions -> letzter Lauf
-- Haeufige Ursache: kaputte Links oder ungueltige Markdown-Struktur
-- Bei Linkproblemen zuerst `pages/index.md` und `pages/contents.md` pruefen
+- Häufige Ursache: kaputte Links oder ungültige Markdown-Struktur
+- Bei Linkproblemen zuerst `pages/index.md` und `pages/contents.md` prüfen
 
 ## Content-Regeln (Pflicht)
 
-Vor jedem Push auf `main` die Copyright- und Freigabe-Regeln pruefen:
+Vor jedem Push auf `main` die Copyright- und Freigabe-Regeln prüfen:
 
 - `docs/PUBLIC-CONTENT-RULES.md`

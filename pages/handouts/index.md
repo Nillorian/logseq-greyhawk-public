@@ -1,3 +1,3 @@
 # Handouts
 
-Geteilte Handouts, Auszuege und visuelle Hilfen.
+Geteilte Handouts, Auszüge und visuelle Hilfen.

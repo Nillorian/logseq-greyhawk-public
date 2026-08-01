@@ -1,3 +1,3 @@
 # Sitzungen
 
-Zusammenfassungen vergangener Sitzungen fuer Spieler.
+Zusammenfassungen vergangener Sitzungen für Spieler.

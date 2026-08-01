@@ -1,16 +1,13 @@
-# Templates fuer Public Pages
+# Templates für Public Pages
 
-Diese Vorlagen sind fuer MkDocs/GitHub Pages optimiert.
+Diese Vorlagen sind für MkDocs/GitHub Pages optimiert.
 Keine Logseq-Property-Syntax wie type:: oder tags:: verwenden.
 
 ## Allgemeines Metadatenformat
 
-Direkt unter der H1-Ueberschrift:
+Direkt unter der H1-Überschrift:
 
 - **Typ**: dnd-pc | npc | statblock | location | faction | item | scene | quest-hook | story-node-map | session-note
-- **Sichtbarkeit**: public
-- **Status**: draft | published
-- **Spoiler-Level**: none | low | medium
 - **Tags**: kommagetrennte Schlagworte
 
 ---
@@ -20,16 +17,13 @@ Direkt unter der H1-Ueberschrift:
 # Name der Figur
 
 - **Typ**: dnd-pc
-- **Sichtbarkeit**: public
-- **Status**: draft
-- **Spoiler-Level**: none
 - **Tags**: dnd-pc, greyhawk-campaign
 
-## Ueberblick
+## Überblick
 
 - **Spezies**:
 - **Klasse**:
-- **Groesse**:
+- **Größe**:
 - **Hintergrund**:
 - **Markantes Feature**:
 - **Alter**:
@@ -48,7 +42,7 @@ Direkt unter der H1-Ueberschrift:
 
 ## Equipment
 
-## Secrets (intern, nicht oeffentlich ausfuellen)
+## Secrets (intern, nicht öffentlich ausfüllen)
 
 ---
 
@@ -57,12 +51,9 @@ Direkt unter der H1-Ueberschrift:
 # Name der Figur
 
 - **Typ**: npc
-- **Sichtbarkeit**: public
-- **Status**: draft
-- **Spoiler-Level**: none
 - **Tags**: npc, greyhawk-campaign
 
-## Ueberblick
+## Überblick
 
 - Aussehen und Wirkung
 - Aktuelle Haltung zur Gruppe
@@ -70,17 +61,17 @@ Direkt unter der H1-Ueberschrift:
 ## So spielst du die Figur
 
 - Stimme und Verhalten
-- Ziele und Beduerfnisse
+- Ziele und Bedürfnisse
 - Druckpunkte
 
-## Was diese Figur weiss
+## Was diese Figur weiß
 
-- Oeffentliche Informationen
-- Geheime Informationen (intern, nicht oeffentlich)
+- Öffentliche Informationen
+- Geheime Informationen (intern, nicht öffentlich)
 
 ## Szenen
 
-## Auftraege
+## Aufträge
 
 1. **Titel des Auftrags**
    - **Aufgabe:**
@@ -90,8 +81,8 @@ Direkt unter der H1-Ueberschrift:
 
 ## Verbindungen
 
-- Verknuepfte Orte
-- Verknuepfte NPCs
+- Verknüpfte Orte
+- Verknüpfte NPCs
 
 ## Notizen
 
@@ -102,22 +93,19 @@ Direkt unter der H1-Ueberschrift:
 # Name des Wesens
 
 - **Typ**: statblock
-- **Sichtbarkeit**: public
-- **Status**: draft
-- **Spoiler-Level**: none
 - **Tags**: statblock, greyhawk-campaign
 
-## Ueberblick
+## Überblick
 
 - Name und Titel
-- Groesse, Typ und Gesinnung
+- Größe, Typ und Gesinnung
 - RK, TP und Geschwindigkeit
 
 ## Werte
 
 - Attributtabelle oder kompakte Wertezeile
-- Rettungswuerfe, Fertigkeiten, Sinne, Sprachen
-- Herausforderungsgrad und Uebungsbonus
+- Rettungswürfe, Fertigkeiten, Sinne, Sprachen
+- Herausforderungsgrad und Übungsbonus
 
 ## Eigenschaften
 
@@ -127,13 +115,13 @@ Direkt unter der H1-Ueberschrift:
 
 ## Reaktionen
 
-## Ausruestung
+## Ausrüstung
 
 ## Taktiken
 
 ## Bilder und Quellen
 
-## Verknuepfungen und Notizen
+## Verknüpfungen und Notizen
 
 ---
 
@@ -142,24 +130,21 @@ Direkt unter der H1-Ueberschrift:
 # Name des Ortes
 
 - **Typ**: location
-- **Sichtbarkeit**: public
-- **Status**: draft
-- **Spoiler-Level**: none
 - **Tags**: location, greyhawk-campaign
 
-## Ueberblick
+## Überblick
 
-- Bild oder kurze Atmosphaerebeschreibung (1-3 Zeilen)
+- Bild oder kurze Atmosphärebeschreibung (1-3 Zeilen)
 - Was Spieler sofort bemerken
 
 ## Anwesende
 
 - Wichtige aktuell anwesende NPCs
-- Regelmaessige Gaeste
+- Regelmäßige Gäste
 
 ## Szenen
 
-## Auftraege
+## Aufträge
 
 1. **Titel des Auftrags**
    - **Aufgabe:**
@@ -170,19 +155,19 @@ Direkt unter der H1-Ueberschrift:
 ## Dienste und Ressourcen
 
 - Was man kaufen kann
-- Nuetzliche Kontakte
+- Nützliche Kontakte
 
-## Geheimnisse (intern, nicht oeffentlich)
+## Geheimnisse (intern, nicht öffentlich)
 
 ## Verbindungen
 
-- Verknuepfte Orte
-- Verknuepfte Fraktionen
+- Verknüpfte Orte
+- Verknüpfte Fraktionen
 
-## Layout und Raeume
+## Layout und Räume
 
-- Uebersicht der Bereiche
-- Raumnutzung und Zugaenge
+- Übersicht der Bereiche
+- Raumnutzung und Zugänge
 - Besondere Details pro Raum
 
 ## Hintergrund und Details
@@ -194,15 +179,12 @@ Direkt unter der H1-Ueberschrift:
 # Name der Fraktion
 
 - **Typ**: faction
-- **Sichtbarkeit**: public
-- **Status**: draft
-- **Spoiler-Level**: none
 - **Tags**: faction, greyhawk-campaign
 
-## Ueberblick
+## Überblick
 
-- Kernidentitaet
-- Wie sie auf Aussenstehende wirken
+- Kernidentität
+- Wie sie auf Außenstehende wirken
 
 ## Ziele
 
@@ -211,13 +193,13 @@ Direkt unter der H1-Ueberschrift:
 
 ## Methoden und Ressourcen
 
-## Schluesselfiguren
+## Schlüsselfiguren
 
-## Verbuendete und Gegner
+## Verbündete und Gegner
 
 ## Szenen
 
-## Auftraege
+## Aufträge
 
 1. **Titel des Auftrags**
    - **Aufgabe:**
@@ -225,7 +207,7 @@ Direkt unter der H1-Ueberschrift:
    - **Warum:**
    - **Belohnung:**
 
-## Geheimnisse (intern, nicht oeffentlich)
+## Geheimnisse (intern, nicht öffentlich)
 
 ## Verbindungen
 
@@ -236,19 +218,16 @@ Direkt unter der H1-Ueberschrift:
 # Name des Gegenstands
 
 - **Typ**: item
-- **Sichtbarkeit**: public
-- **Status**: draft
-- **Spoiler-Level**: none
 - **Tags**: item, greyhawk-campaign
 
-## Ueberblick
+## Überblick
 
 - Bild oder Kurzbeschreibung
-- Was beim ersten Blick auffaellt
+- Was beim ersten Blick auffällt
 
 ## Sichtbarer Effekt
 
-## Verborgener Effekt (intern, nicht oeffentlich)
+## Verborgener Effekt (intern, nicht öffentlich)
 
 ## Herkunft und Besitz
 
@@ -263,17 +242,15 @@ Direkt unter der H1-Ueberschrift:
 # Name der Szene
 
 - **Typ**: scene
-- **Sichtbarkeit**: public
-- **Status**: draft
 - **Spoiler-Level**: low
 - **Tags**: scene, greyhawk-campaign
 
-## Ueberblick
+## Überblick
 
 - Szenen-Pitch in einer Zeile
 - Wo und wann
 
-## Ausloeser
+## Auslöser
 
 ## Beteiligte
 
@@ -283,21 +260,19 @@ Direkt unter der H1-Ueberschrift:
 
 ## Folgeverweise
 
-## Notizen (intern, nicht oeffentlich)
+## Notizen (intern, nicht öffentlich)
 
 ---
 
 ## Template: Quest-Hook
 
-# Name des Aufhaengers
+# Name des Aufhängers
 
 - **Typ**: quest-hook
-- **Sichtbarkeit**: public
-- **Status**: draft
 - **Spoiler-Level**: low
 - **Tags**: quest-hook, greyhawk-campaign
 
-## Ueberblick
+## Überblick
 
 - Pitch (1-2 Zeilen)
 - Dringlichkeit
@@ -324,12 +299,10 @@ Direkt unter der H1-Ueberschrift:
 # Name der Story-Node-Map
 
 - **Typ**: story-node-map
-- **Sichtbarkeit**: public
-- **Status**: draft
 - **Spoiler-Level**: medium
 - **Tags**: story-node-map, greyhawk-campaign
 
-## Ueberblick
+## Überblick
 
 - Umfang (Ort, Region oder Handlungsbogen)
 - Aktuelle Spannung
@@ -340,33 +313,8 @@ Direkt unter der H1-Ueberschrift:
 
 ## Vage Spuren
 
-## Geheimnisse (intern, nicht oeffentlich)
+## Geheimnisse (intern, nicht öffentlich)
 
-## Schnellmatrix (Von -> Fuehrt zu)
+## Schnellmatrix (Von -> Führt zu)
 
 ## Verbindungen
-
----
-
-## Template: Session-Note
-
-# Sitzungstitel
-
-- **Typ**: session-note
-- **Sichtbarkeit**: public
-- **Status**: draft
-- **Spoiler-Level**: low
-- **Tags**: session-note, greyhawk-campaign
-
-## Ueberblick
-
-- Datum und Ingame-Zeit
-- Aktuelles Gruppenziel
-
-## Aktuelle Situation
-
-## Gewonnene Informationen
-
-## Offene Faeden
-
-## Naechste moegliche Szenen

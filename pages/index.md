@@ -1,6 +1,6 @@
 # Greyhawk Public Vault
 
-Willkommen im oeffentlichen Spielerbereich.
+Willkommen im öffentlichen Spielerbereich.
 
 ## Bereiche
 
@@ -19,5 +19,5 @@ Willkommen im oeffentlichen Spielerbereich.
 
 ## Hinweise
 
-- Dieser Bereich enthaelt nur freigegebene Spielerinformationen.
-- Interne DM-Informationen werden nicht veroeffentlicht.
+- Dieser Bereich enthält nur freigegebene Spielerinformationen.
+- Interne DM-Informationen werden nicht veröffentlicht.

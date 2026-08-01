@@ -9,37 +9,46 @@
 
 ![Der Rabe Portrait](../assets/players/rabe_bild_portrait.png){: height="250" }
 
-## Ueberblick
+## Überblick
 
 - **Spezies**: Halb-Elf
-- **Klasse**: Warlock
-- **Groesse**: 1,79 m
-- **Hintergrund**: Unvollstaendige Erinnerungen an die eigene Vergangenheit
-- **Markante Feature**: Auffaellige Geruchs- und Geschmackswahrnehmung
-- **Alter**: Etwa 40 Jahre
+- **Klasse**: Warlock (Hex-Blade Warlock)
+- **Größe**: 1,79 m
+- **Hintergrund**: Unbekannt (aufgrund vollständiger Amnesie)
+- **Markantes Feature**: Gedächtnisverlust, mysteriöser Token, unbewusster Pakt mit einem unbekannten Patron
+- **Alter**: Etwa 40 Jahre, mittleres Erwachsenenalter
 
-## Iconic sayings
+## Iconic Sayings
 
 - "Ich kenne den Namen nicht mehr, aber deinen Geruch vergesse ich nicht."
 
 ## History
 
-Der Rabe tritt als verschlossener, aber loyaler Reisegefaehrte auf. Seine Erinnerungsbrueche praegen sein Verhalten und seine Entscheidungen.
+- Name: Noch unbekannt.
+- Morbide Faszination: Dunkle Themen und makabre Details ziehen ihn stark an.
+- Impulskontrollprobleme: Wenn andere verletzt werden, reagiert er emotional, teils mit übersteigerter Rachsucht oder starken Schuldgefühlen.
+- Kulinarische Prägung: Geschmäcker und Gerüche faszinieren ihn.
+- Reinlichkeitsdrang: Er hat eine obsessive Abneigung gegen Schmutz auf Kleidung.
 
 ## Motivation und Ziele
 
-- Bruchstuecke der eigenen Vergangenheit einordnen.
-- Die Gruppe trotz innerer Konflikte schuetzen.
+-
 
 ## Beziehungen
 
-- Sucht Vertrauen in kleinen, verlaesslichen Schritten.
+- Unbekannter Patron.
+
+## Journals
+
+- Character Journal 28.04. (Rabe)
 
 ## Equipment
 
-- Reiseausruestung und persoenliche Andenken.
+- Allzeit bereite Reiseküche
+- Pearl of Power
 
 ## Tags
 
 - #dnd-pc
 - #greyhawk-campaign
+- #greyhawk-adventure-party

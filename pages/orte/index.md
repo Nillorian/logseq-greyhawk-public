@@ -1,3 +1,3 @@
 # Orte
 
-Bekannte Orte, Regionen und oeffentliche Ortsbeschreibungen.
+Bekannte Orte, Regionen und öffentliche Ortsbeschreibungen.

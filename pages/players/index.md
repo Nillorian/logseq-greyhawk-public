@@ -1,6 +1,6 @@
 # Players
 
-Spielercharaktere und oeffentlich geteilte Charakterinfos.
+Spielercharaktere und öffentlich geteilte Charakterinfos.
 
 ## Steckbriefe
 

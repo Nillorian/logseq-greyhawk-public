@@ -1,3 +1,3 @@
 # Fraktionen
 
-Oeffentlich bekannte Fraktionen, Gruppen und Parteien.
+Öffentlich bekannte Fraktionen, Gruppen und Parteien.

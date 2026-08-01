@@ -1,32 +1,33 @@
-# AGENTS - Regeln und Absichten fuer den Public Graph
+# AGENTS - Regeln und Absichten für den Public Graph
 
 ## Intent
-Dieser Graph ist fuer Spieler bestimmt. Ziel ist, veroeffentlichbare Informationen aus der Kampagne konsistent, sicher und nachvollziehbar bereitzustellen.
+Dieser Graph ist für Spieler bestimmt. Ziel ist, veröffentlichbare Informationen aus der Kampagne konsistent, sicher und nachvollziehbar bereitzustellen.
 
 ## Kontext
 - Root: /home/nillorian/LogSeq/logseq-greyhawk-public
-- Inhalte in pages/ sind oeffentlich.
-- assets/ darf nur Material enthalten, das fuer Spieler freigegeben ist.
+- Inhalte in pages/ sind öffentlich.
+- assets/ darf nur Material enthalten, das für Spieler freigegeben ist.
 - Der private Kampagnen-Graph ist die Hauptquelle; dieser Graph ist ein kuratierter Auszug.
 
 ## Kernregeln
-1. Keine DM-only Inhalte veroeffentlichen.
-2. Keine geheimen Plotinfos, Loesungen oder versteckten Motivationen aufnehmen.
+1. Keine DM-only Inhalte veröffentlichen.
+2. Keine geheimen Plotinfos, Lösungen oder versteckten Motivationen aufnehmen.
 3. Keine internen UUIDs, privaten Backlinks oder Hinweise auf private Dateien teilen.
 4. Nur freigegebene Bilder, Karten und Handouts unter assets/ referenzieren.
-5. Bei Unsicherheit: nicht veroeffentlichen, sondern als draft markieren.
+5. Bei Unsicherheit: nicht veröffentlichen, sondern als draft markieren.
 
 ## Inhaltliche Leitplanken
 1. Schreibe aus Spielerperspektive.
-2. Trenne Fakt von Geruecht klar.
+2. Trenne Fakt von Gerücht klar.
 3. Nutze knappe, gut scannbare Abschnitte.
 4. Halte Begriffe und Benennungen konsistent mit Templates.md.
-5. Dokumentiere relevante Aenderungen in Sitzungs- oder Quest-Seiten.
+5. Dokumentiere relevante Änderungen in Sitzungs- oder Quest-Seiten.
+6. Verwende korrektes Deutsch mit Umlauten und ß auf öffentlichen Seiten.
 
 ## Seitenstatus und Metadatenformat
-Verwende in oeffentlichen Seiten einen sichtbaren Metadaten-Abschnitt statt Logseq-Properties.
+Verwende in öffentlichen Seiten einen sichtbaren Metadaten-Abschnitt statt Logseq-Properties.
 
-Empfohlenes Format direkt unter der H1-Ueberschrift:
+Empfohlenes Format direkt unter der H1-Überschrift:
 - **Typ**: npc | location | faction | item | quest-hook | scene | session-note | statblock | dnd-pc
 - **Sichtbarkeit**: public
 - **Status**: draft | published
@@ -40,38 +41,38 @@ Beispiel:
 - **Spoiler-Level**: none
 - **Tags**: greyhawk-campaign, npc
 
-## Arbeitsablauf fuer Agenten
+## Arbeitsablauf für Agenten
 1. Quelle im privaten Graph identifizieren.
-2. Nur sichere Inhalte in den Public Graph uebernehmen.
+2. Nur sichere Inhalte in den Public Graph übernehmen.
 3. Seite mit passendem Template aus pages/Templates.md erstellen oder aktualisieren.
 4. Quick-Check vor Abschluss:
-   - Keine DM-only Abschnitte ausgefuellt
+   - Keine DM-only Abschnitte ausgefüllt
    - Keine privaten Verweise
    - Nur freigegebene Assets
-5. Status auf published setzen, wenn alles geprueft ist.
+5. Status auf published setzen, wenn alles geprüft ist.
 
 ## Erlaubte Eingriffe
-- Strukturieren, kuerzen, sprachlich klarer machen
+- Strukturieren, kürzen, sprachlich klarer machen
 - Konsistente Properties und Tags setzen
-- Oeffentliche Querverweise in pages/ pflegen
+- Öffentliche Querverweise in pages/ pflegen
 
 ## Nicht erlaubte Eingriffe
-- Inhalte aus privaten Notizen ungeprueft kopieren
-- Spoiler in oeffentliche Kurzfassungen einbauen
+- Inhalte aus privaten Notizen ungeprüft kopieren
+- Spoiler in öffentliche Kurzfassungen einbauen
 - Verweise auf private Repositories oder lokale Dateipfade belassen
 
 ## Sicherheitscheckliste vor Commit
-1. Suche nach Woertern wie "DM", "geheim", "intern", "Loesung", "Hinterhalt".
-2. Pruefe neue Dateien auf unbeabsichtigte Metadaten.
-3. Oeffne geaenderte Seiten aus Spielersicht und pruefe Verstaendlichkeit.
+1. Suche nach Wörtern wie "DM", "geheim", "intern", "Lösung", "Hinterhalt".
+2. Prüfe neue Dateien auf unbeabsichtigte Metadaten.
+3. Öffne geänderte Seiten aus Spielersicht und prüfe Verständlichkeit.
 
 ## Pre-Push Pflichtcheck
-Vor jedem Push auf `main` zusaetzlich die Freigabe- und Copyright-Regeln pruefen:
+Vor jedem Push auf `main` zusätzlich die Freigabe- und Copyright-Regeln prüfen:
 
 - `docs/PUBLIC-CONTENT-RULES.md`
 
 ## Definition of Done
-- Seite ist fuer Spieler verstaendlich.
+- Seite ist für Spieler verständlich.
 - Keine sensiblen Informationen enthalten.
 - Template-konform und sauber verlinkt.
 - Status und Properties gesetzt.

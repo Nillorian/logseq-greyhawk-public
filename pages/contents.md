@@ -1,5 +1,5 @@
 ## Greyhawk Public Vault
-	- Ziel: Nur Spielerwissen veroeffentlichen.
+	- Ziel: Nur Spielerwissen veröffentlichen.
 	- Regel: Keine DM-only Informationen in diesem Vault.
 - ## Bereiche
 	- [[players]]
@@ -13,7 +13,7 @@
 - ## Vorlagen
 	- [[Templates]]
 - ## Quick Checklist vor Publish
-	- [ ] Nur veroeffentlichbare Fakten enthalten
+	- [ ] Nur veröffentlichbare Fakten enthalten
 	- [ ] Keine DM-only Notizen enthalten
 	- [ ] Keine Verweise auf private Seiten
 	- [ ] Verlinkte Assets liegen im public Vault

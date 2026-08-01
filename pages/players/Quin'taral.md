@@ -9,32 +9,42 @@
 
 ![Quin'taral Portrait](../assets/players/quin-taral_take_2.png){: height="250" }
 
-## Ueberblick
+## Überblick
 
 - **Spezies**: Drow Elf
 - **Klasse**: Rogue (Wayfarer archetype)
-- **Groesse**: 1,70 m
-- **Hintergrund**: Urban outcast, moeglicherweise Urchin oder Exiled Scion
-- **Markantes Feature**: Ausgepraegter Instinkt fuer Misstrauen gegenueber Adel und Autoritaet
-- **Alter**: Fruehe 30er (jung fuer einen Elf, aber vom Leben gezeichnet)
+- **Größe**: 1,70 m
+- **Hintergrund**: Urban outcast, possibly Urchin or custom Exiled Scion
+- **Markantes Feature**: Resentful Instinct gegenüber Adel und Autorität
+- **Alter**: Early 30s (jung für einen Elf, aber vom Leben gezeichnet)
 
 ## Iconic Sayings
 
-- "Wenn Du dem Adel die Hand gegeben hast, zaehl danach deine Finger."
+- "Wenn Du dem Adel die Hand gegeben hast, zähl danach deine Finger."
 
 ## History
 
-Quin'taral stammt aus der Unterwelt und lebt seit Jahren als Aussenseiter in der Oberwelt. Fruehe Armut, Ausgrenzung und Verrat durch Maechtige haben ihn gepraegt. Daraus entstand ein Ueberlebenswille, der ihn zu einem geschickten, vorsichtigen und schwer greifbaren Weggefaehrten gemacht hat.
+- Alignment: Chaotic Neutral
+- Languages: Undercommon, Elvish, Common, Thieves' Cant
+- Geboren irgendwo im Underdark, später Straßenkind in der Oberwelt.
+- Seine Eltern flohen als Verräter aus der Unterwelt und fanden in der Oberwelt kaum Anschluss.
+- Als Geld knapp wurde, verkaufte sein Vater Unterweltinformationen an Adlige; ein verpfuschtes Ritual forderte Tote, und die Familie wurde verantwortlich gemacht.
+- Quin sah, wie seine Eltern als Sühne abgeführt wurden. Ihn ließ man zurück; die Straße wurde sein Zuhause.
+- Er ist kein Mitglied der Diebesgilde, gilt aber als nützlicher Verbündeter für Stealth- und Vergeltungsaufträge.
 
 ## Motivation und Ziele
 
-- Oberflaechlich: Rache an den Verantwortlichen fuer den Sturz seiner Familie.
-- Tiefer: Einen Ort finden, an dem Vertrauen moeglich ist.
-- Am tiefsten: Beweisen, dass Loyalitaet mehr wert ist als Opportunismus.
+- Oberflächlich: Rache an der Adelsfamilie, die seine Eltern versklavt hat.
+- Tiefer: Irgendwo dazugehören und einen Platz in der Welt finden.
+- Am tiefsten: Beweisen, dass er nicht wie sein Vater ist und Loyalität sowie Ehre über Geld und bloßes Überleben stellt.
 
 ## Beziehungen
 
-- Beziehungen innerhalb der Gruppe entwickeln sich vorsichtig, aber stetig.
+-
+
+## Journals
+
+-
 
 ## Equipment
 
@@ -44,3 +54,4 @@ Quin'taral stammt aus der Unterwelt und lebt seit Jahren als Aussenseiter in der
 
 - #dnd-pc
 - #greyhawk-campaign
+- #greyhawk-adventure-party

@@ -55,6 +55,11 @@ Nutze nach Moeglichkeit diese Properties:
 2. Pruefe neue Dateien auf unbeabsichtigte Metadaten.
 3. Oeffne geaenderte Seiten aus Spielersicht und pruefe Verstaendlichkeit.
 
+## Pre-Push Pflichtcheck
+Vor jedem Push auf `main` zusaetzlich die Freigabe- und Copyright-Regeln pruefen:
+
+- `docs/PUBLIC-CONTENT-RULES.md`
+
 ## Definition of Done
 - Seite ist fuer Spieler verstaendlich.
 - Keine sensiblen Informationen enthalten.

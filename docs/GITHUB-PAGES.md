@@ -56,3 +56,9 @@ Die Seite ist danach unter folgender URL erreichbar:
 - Build-Fehler ansehen: GitHub -> Actions -> letzter Lauf
 - Haeufige Ursache: kaputte Links oder ungueltige Markdown-Struktur
 - Bei Linkproblemen zuerst `pages/index.md` und `pages/contents.md` pruefen
+
+## Content-Regeln (Pflicht)
+
+Vor jedem Push auf `main` die Copyright- und Freigabe-Regeln pruefen:
+
+- `docs/PUBLIC-CONTENT-RULES.md`

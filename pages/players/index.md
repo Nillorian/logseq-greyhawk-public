@@ -19,4 +19,4 @@ Spielercharaktere und öffentlich geteilte Charakterinfos.
 
 ## Charakter-Journale
 
-- [Charakter-Journale](journals/index.md)
+- [Charakter-Journale](../journals/index.md)

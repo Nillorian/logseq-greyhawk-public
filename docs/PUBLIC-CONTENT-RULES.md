@@ -45,8 +45,7 @@ Wenn ein Nachweis fehlt, wird das Asset nicht veröffentlicht.
 
 Für öffentliche Seiten gilt ein MkDocs-kompatibles Markdown-Format:
 - Keine proprietäre Property-Syntax in Seiteninhalten verwenden (z. B. type::, tags::, status::).
-- Metadaten direkt unter der H1 als normale Markdown-Liste pflegen.
-- Tags als Klartext im Metadatenblock und optional zusätzlich in einem eigenen Abschnitt aufführen.
+- Keine Typ-/Tag-Metadatenblöcke im Seitenkopf verwenden.
 - Inhalte in üblichen Markdown-Abschnitten mit Überschriften strukturieren.
 - Deutschsprachige Seiten mit korrekter Rechtschreibung inklusive Umlauten und ß pflegen.
 

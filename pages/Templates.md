@@ -2,6 +2,7 @@
 
 Diese Vorlagen sind für MkDocs/GitHub Pages optimiert.
 Keine proprietäre Property-Syntax wie type:: oder tags:: verwenden.
+Keine Typ-/Tag-Metadatenblöcke unter der H1 verwenden.
 
 ## Template: PC
 
@@ -37,9 +38,6 @@ Keine proprietäre Property-Syntax wie type:: oder tags:: verwenden.
 ## Template: NPC
 
 # Name der Figur
-
-- **Typ**: npc
-- **Tags**: npc, greyhawk-campaign
 
 ## Überblick
 
@@ -79,9 +77,6 @@ Keine proprietäre Property-Syntax wie type:: oder tags:: verwenden.
 ## Template: Location
 
 # Name des Ortes
-
-- **Typ**: location
-- **Tags**: location, greyhawk-campaign
 
 ## Überblick
 
@@ -127,9 +122,6 @@ Keine proprietäre Property-Syntax wie type:: oder tags:: verwenden.
 
 # Name der Fraktion
 
-- **Typ**: faction
-- **Tags**: faction, greyhawk-campaign
-
 ## Überblick
 
 - Kernidentität
@@ -163,9 +155,6 @@ Keine proprietäre Property-Syntax wie type:: oder tags:: verwenden.
 ## Template: Item
 
 # Name des Gegenstands
-
-- **Typ**: item
-- **Tags**: item, greyhawk-campaign
 
 ## Überblick
 

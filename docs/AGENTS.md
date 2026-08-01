@@ -24,22 +24,9 @@ Dieses Repository ist für Spieler bestimmt. Ziel ist, veröffentlichbare Inform
 5. Dokumentiere relevante Änderungen in Sitzungs- oder Quest-Seiten.
 6. Verwende korrektes Deutsch mit Umlauten und ß auf öffentlichen Seiten.
 
-## Seitenstatus und Metadatenformat
-Verwende in öffentlichen Seiten einen sichtbaren Metadaten-Abschnitt statt Logseq-Properties.
-
-Empfohlenes Format direkt unter der H1-Überschrift:
-- **Typ**: npc | location | faction | item | quest-hook | scene | session-note | statblock | dnd-pc
-- **Sichtbarkeit**: public
-- **Status**: draft | published
-- **Spoiler-Level**: none | low | medium
-- **Tags**: kommagetrennte Schlagworte
-
-Beispiel:
-- **Typ**: npc
-- **Sichtbarkeit**: public
-- **Status**: published
-- **Spoiler-Level**: none
-- **Tags**: greyhawk-campaign, npc
+## Seitenformat
+Öffentliche Seiten enthalten nur normalen Markdown-Inhalt mit klaren Überschriften und Abschnitten.
+Keine Typ-/Tag-Metadatenblöcke und keine Logseq-Property-Syntax verwenden.
 
 ## Arbeitsablauf für Agenten
 1. Quelle im privaten Kampagnenbereich identifizieren.
@@ -49,11 +36,11 @@ Beispiel:
    - Keine DM-only Abschnitte ausgefüllt
    - Keine privaten Verweise
    - Nur freigegebene Assets
-5. Status auf published setzen, wenn alles geprüft ist.
+5. Seite auf Verständlichkeit und Spoilerfreiheit prüfen.
 
 ## Erlaubte Eingriffe
 - Strukturieren, kürzen, sprachlich klarer machen
-- Konsistente Properties und Tags setzen
+- Konsistente Begriffe und Struktur nach Templates.md pflegen
 - Öffentliche Querverweise in pages/ pflegen
 
 ## Nicht erlaubte Eingriffe
@@ -63,7 +50,7 @@ Beispiel:
 
 ## Sicherheitscheckliste vor Commit
 1. Suche nach Wörtern wie "DM", "geheim", "intern", "Lösung", "Hinterhalt".
-2. Prüfe neue Dateien auf unbeabsichtigte Metadaten.
+2. Prüfe neue Dateien auf unbeabsichtigte interne Notizen oder Property-Syntax.
 3. Öffne geänderte Seiten aus Spielersicht und prüfe Verständlichkeit.
 
 ## Pre-Push Pflichtcheck
@@ -75,4 +62,4 @@ Vor jedem Push auf `main` zusätzlich die Freigabe- und Copyright-Regeln prüfen
 - Seite ist für Spieler verständlich.
 - Keine sensiblen Informationen enthalten.
 - Template-konform und sauber verlinkt.
-- Status und Properties gesetzt.
+- Inhalt ist sauber strukturiert und ohne Metadatenblock veröffentlicht.

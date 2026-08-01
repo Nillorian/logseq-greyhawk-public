@@ -8,7 +8,6 @@
 	- [[fraktionen]]
 	- [[lore]]
 	- [[quests]]
-	- [[sitzungen]]
 	- [[handouts]]
 - ## Vorlagen
 	- [[Templates]]

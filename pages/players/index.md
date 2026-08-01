@@ -16,3 +16,7 @@ Spielercharaktere und öffentlich geteilte Charakterinfos.
 ## Inaktive Spieler
 - [Quin'taral](Quin%27taral.md)
 - [Theren Dalanthan](Theren%20Dalanthan.md)
+
+## Charakter-Journale
+
+- [Charakter-Journale](journals/index.md)

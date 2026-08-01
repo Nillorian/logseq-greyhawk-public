@@ -1,8 +1,13 @@
 # Der Rabe
 
-- alias:: Rabe
-- type:: dnd-pc
-- public:: true
+- **Alias**: Rabe
+- **Typ**: dnd-pc
+- **Sichtbarkeit**: public
+- **Status**: published
+- **Spoiler-Level**: none
+- **Tags**: dnd-pc, greyhawk-campaign
+
+![Der Rabe Portrait](../assets/players/rabe_bild_portrait.png){: height="250" }
 
 ## Ueberblick
 

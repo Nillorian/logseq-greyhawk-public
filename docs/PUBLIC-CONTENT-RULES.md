@@ -41,6 +41,17 @@ Wenn ein Nachweis fehlt, wird das Asset nicht veroeffentlicht.
 4. Enthalten Seiten DM-only oder interne Notizen? Dann entfernen.
 5. Lokale/temporare Dateien (z. B. .venv) sind nicht im Repo versioniert.
 
+## Seitenformat fuer GitHub Pages
+
+Fuer oeffentliche Seiten gilt ein MkDocs-kompatibles Markdown-Format:
+- Keine Logseq-Property-Syntax in Seiteninhalten verwenden (z. B. type::, tags::, status::).
+- Metadaten direkt unter der H1 als normale Markdown-Liste pflegen.
+- Tags als Klartext im Metadatenblock und optional zusaetzlich in einem eigenen Abschnitt auffuehren.
+- Inhalte in ueblichen Markdown-Abschnitten mit Ueberschriften strukturieren.
+
+Referenz fuer Vorlagen und Feldnamen:
+- pages/Templates.md
+
 ## Incident-Regel
 
 Wenn problematische Inhalte bereits gepusht wurden:

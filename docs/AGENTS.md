@@ -23,12 +23,22 @@ Dieser Graph ist fuer Spieler bestimmt. Ziel ist, veroeffentlichbare Information
 4. Halte Begriffe und Benennungen konsistent mit Templates.md.
 5. Dokumentiere relevante Aenderungen in Sitzungs- oder Quest-Seiten.
 
-## Seitenstatus
-Nutze nach Moeglichkeit diese Properties:
-- public:: true
-- status:: draft | published
-- spoiler:: none | low | medium
-- type:: npc | location | faction | item | quest-hook | scene | session-note | statblock | dnd-pc
+## Seitenstatus und Metadatenformat
+Verwende in oeffentlichen Seiten einen sichtbaren Metadaten-Abschnitt statt Logseq-Properties.
+
+Empfohlenes Format direkt unter der H1-Ueberschrift:
+- **Typ**: npc | location | faction | item | quest-hook | scene | session-note | statblock | dnd-pc
+- **Sichtbarkeit**: public
+- **Status**: draft | published
+- **Spoiler-Level**: none | low | medium
+- **Tags**: kommagetrennte Schlagworte
+
+Beispiel:
+- **Typ**: npc
+- **Sichtbarkeit**: public
+- **Status**: published
+- **Spoiler-Level**: none
+- **Tags**: greyhawk-campaign, npc
 
 ## Arbeitsablauf fuer Agenten
 1. Quelle im privaten Graph identifizieren.

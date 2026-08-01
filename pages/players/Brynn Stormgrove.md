@@ -1,8 +1,13 @@
 # Brynn Stormgrove
 
-- alias:: Brynn
-- type:: dnd-pc
-- public:: true
+- **Alias**: Brynn
+- **Typ**: dnd-pc
+- **Sichtbarkeit**: public
+- **Status**: published
+- **Spoiler-Level**: none
+- **Tags**: dnd-pc, greyhawk-campaign
+
+![Brynn Stormgrove Portrait](../assets/players/brynn_stormgrove.png){: height="250" }
 
 ## Ueberblick
 

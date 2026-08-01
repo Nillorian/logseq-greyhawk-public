@@ -1,209 +1,372 @@
-- template:: pc
-  collapsed:: true
-	- type:: dnd-pc
-	- public:: true
-	- BILD
-	- ## Ueberblick
-		- **Spezies**:
-		- **Klasse**:
-		- **Groesse**:
-		- **Hintergrund**:
-		- **Markante Feature**:
-		- **Alter**:
-	- ## Iconic sayings
-	- ## History
-		- background
-	- ## Motivation und Ziele
-	- ## Beziehungen
-	- ## Szenes
-	- ## Journals
-		- list of written journals
-	- ## Equipment
-		- custom magic items
-	- ## Secrets (intern, nicht oeffentlich ausfuellen)
-	- ## Tags
-		- #dnd-pc
+# Templates fuer Public Pages
 
-- template:: npc
-  collapsed:: true
-	- type:: npc
-	- public:: true
-	- ## Ueberblick
-		- aussehen und wirkung
-		- aktuelle haltung zur gruppe
-	- ## So spielst du die Figur
-		- stimme und verhalten
-		- ziele und beduerfnisse
-		- druckpunkte
-	- ## Was diese Figur weiss
-		- oeffentliche informationen
-		- geheime informationen (intern, nicht oeffentlich)
-	- ## Szenen
-		- aktive szenen
-	- ## Auftraege
-		- 1. **Titel des Auftrags**
-			- **Aufgabe:**
-			- **Erfolgskriterium:**
-			- **Warum:**
-			- **Belohnung:**
-		- 2. **Titel des Auftrags**
-			- **Aufgabe:**
-			- **Erfolgskriterium:**
-			- **Warum:**
-			- **Belohnung:**
-		- aktive aufhaenger
-		- quest-links
-	- ## Verbindungen
-		- verknuepfte orte
-		- verknuepfte npcs
-		- tags
-	- ## Notizen
+Diese Vorlagen sind fuer MkDocs/GitHub Pages optimiert.
+Keine Logseq-Property-Syntax wie type:: oder tags:: verwenden.
 
-- template:: statblock
-  collapsed:: true
-	- type:: statblock
-	- public:: true
-	- ## Ueberblick
-		- name und titel
-		- groesse, typ und gesinnung
-		- rk, tp und geschwindigkeit
-	- ## Werte
-		- attributtabelle oder kompakte wertezeile
-		- rettungswuerfe, fertigkeiten, sinne, sprachen
-		- herausforderungsgrad und uebungsbonus
-	- ## Eigenschaften
-	- ## Zauberwirken
-	- ## Aktionen
-	- ## Reaktionen
-	- ## Ausruestung
-	- ## Taktiken
-	- ## Bilder und Quellen
-	- ## Verknuepfungen und Notizen
+## Allgemeines Metadatenformat
 
-- template:: location
-  collapsed:: true
-	- type:: location
-	- public:: true
-	- ## Ueberblick
-		- bild oder kurze atmosphaerebeschreibung (1-3 zeilen)
-		- was spieler sofort bemerken
-	- ## Anwesende
-		- wichtige aktuell anwesende npcs
-		- regelmaessige gaeste
-	- ## Szenen
-		- aktive szenen
-	- ## Auftraege
-		- 1. **Titel des Auftrags**
-			- **Aufgabe:**
-			- **Erfolgskriterium:**
-			- **Warum:**
-			- **Belohnung:**
-		- quest-hooks
-	- ## Dienste und Ressourcen
-		- was man kaufen kann
-		- nuetzliche kontakte
-	- ## Geheimnisse (intern, nicht oeffentlich)
-	- ## Verbindungen
-		- verknuepfte orte
-		- verknuepfte fraktionen
-		- tags
-	- ## Layout und Raeume
-		- uebersicht der bereiche
-		- raumnutzung und zugaenge
-		- besondere details pro raum
-	- ## Hintergrund und Details
+Direkt unter der H1-Ueberschrift:
 
-- template:: faction
-  collapsed:: true
-	- type:: faction
-	- public:: true
-	- ## Ueberblick
-		- kernidentitaet
-		- wie sie auf aussenstehende wirken
-	- ## Ziele
-		- kurzfristige ziele
-		- langfristige ziele
-	- ## Methoden und Ressourcen
-	- ## Schluesselfiguren
-	- ## Verbuendete und Gegner
-	- ## Szenen
-	- ## Auftraege
-		- 1. **Titel des Auftrags**
-			- **Aufgabe:**
-			- **Erfolgskriterium:**
-			- **Warum:**
-			- **Belohnung:**
-	- ## Geheimnisse (intern, nicht oeffentlich)
-	- ## Verbindungen und Tags
+- **Typ**: dnd-pc | npc | statblock | location | faction | item | scene | quest-hook | story-node-map | session-note
+- **Sichtbarkeit**: public
+- **Status**: draft | published
+- **Spoiler-Level**: none | low | medium
+- **Tags**: kommagetrennte Schlagworte
 
-- template:: item
-  collapsed:: true
-	- type:: item
-	- public:: true
-	- ## Ueberblick
-		- bild oder kurzbeschreibung
-		- was beim ersten blick auffaellt
-	- ## Sichtbarer Effekt
-	- ## Verborgener Effekt (intern, nicht oeffentlich)
-	- ## Herkunft und Besitz
-	- ## Verbindungen und Tags
-	- ## Notizen
+---
 
-- template:: scene
-  collapsed:: true
-	- type:: scene
-	- public:: true
-	- ## Ueberblick
-		- szenen-pitch in einer zeile
-		- wo und wann
-	- ## Ausloeser
-	- ## Beteiligte
-	- ## Ablaufoptionen
-	- ## Ergebnisse und Konsequenzen
-	- ## Folgeverweise
-	- ## Notizen (intern, nicht oeffentlich)
+## Template: PC
 
-- template:: quest-hook
-  collapsed:: true
-	- type:: quest-hook
-	- public:: true
-	- ## Ueberblick
-		- pitch (1-2 zeilen)
-		- dringlichkeit
-		- was die gruppe tun soll
-		- warum das wichtig ist
-		- was die gruppe bekommt
-	- ## Auftraggeber
-	- ## Ziel
-	- ## Einstiegspunkte
-	- ## Komplikation
-	- ## Belohnung
-	- ## Folgeverweise
-	- ## Tags
+# Name der Figur
 
-- template:: story-node-map
-  collapsed:: true
-	- type:: story-node-map
-	- public:: true
-	- ## Ueberblick
-		- umfang (ort, region oder handlungsbogen)
-		- aktuelle spannung
-	- ## Knotenliste
-	- ## Klare Spuren
-	- ## Vage Spuren
-	- ## Geheimnisse (intern, nicht oeffentlich)
-	- ## Schnellmatrix (Von -> Fuehrt zu)
-	- ## Verbindungen und Tags
+- **Typ**: dnd-pc
+- **Sichtbarkeit**: public
+- **Status**: draft
+- **Spoiler-Level**: none
+- **Tags**: dnd-pc, greyhawk-campaign
 
-- template:: session-note
-  collapsed:: true
-	- type:: session-note
-	- public:: true
-	- ## Ueberblick
-		- datum und ingame-zeit
-		- aktuelles gruppenziel
-	- ## Aktuelle Situation
-	- ## Gewonnene Informationen
-	- ## Offene Faeden
-	- ## Naechste moegliche Szenen
-	- ## Tags
+## Ueberblick
+
+- **Spezies**:
+- **Klasse**:
+- **Groesse**:
+- **Hintergrund**:
+- **Markantes Feature**:
+- **Alter**:
+
+## Iconic Sayings
+
+## History
+
+## Motivation und Ziele
+
+## Beziehungen
+
+## Szenen
+
+## Journals
+
+## Equipment
+
+## Secrets (intern, nicht oeffentlich ausfuellen)
+
+---
+
+## Template: NPC
+
+# Name der Figur
+
+- **Typ**: npc
+- **Sichtbarkeit**: public
+- **Status**: draft
+- **Spoiler-Level**: none
+- **Tags**: npc, greyhawk-campaign
+
+## Ueberblick
+
+- Aussehen und Wirkung
+- Aktuelle Haltung zur Gruppe
+
+## So spielst du die Figur
+
+- Stimme und Verhalten
+- Ziele und Beduerfnisse
+- Druckpunkte
+
+## Was diese Figur weiss
+
+- Oeffentliche Informationen
+- Geheime Informationen (intern, nicht oeffentlich)
+
+## Szenen
+
+## Auftraege
+
+1. **Titel des Auftrags**
+   - **Aufgabe:**
+   - **Erfolgskriterium:**
+   - **Warum:**
+   - **Belohnung:**
+
+## Verbindungen
+
+- Verknuepfte Orte
+- Verknuepfte NPCs
+
+## Notizen
+
+---
+
+## Template: Statblock
+
+# Name des Wesens
+
+- **Typ**: statblock
+- **Sichtbarkeit**: public
+- **Status**: draft
+- **Spoiler-Level**: none
+- **Tags**: statblock, greyhawk-campaign
+
+## Ueberblick
+
+- Name und Titel
+- Groesse, Typ und Gesinnung
+- RK, TP und Geschwindigkeit
+
+## Werte
+
+- Attributtabelle oder kompakte Wertezeile
+- Rettungswuerfe, Fertigkeiten, Sinne, Sprachen
+- Herausforderungsgrad und Uebungsbonus
+
+## Eigenschaften
+
+## Zauberwirken
+
+## Aktionen
+
+## Reaktionen
+
+## Ausruestung
+
+## Taktiken
+
+## Bilder und Quellen
+
+## Verknuepfungen und Notizen
+
+---
+
+## Template: Location
+
+# Name des Ortes
+
+- **Typ**: location
+- **Sichtbarkeit**: public
+- **Status**: draft
+- **Spoiler-Level**: none
+- **Tags**: location, greyhawk-campaign
+
+## Ueberblick
+
+- Bild oder kurze Atmosphaerebeschreibung (1-3 Zeilen)
+- Was Spieler sofort bemerken
+
+## Anwesende
+
+- Wichtige aktuell anwesende NPCs
+- Regelmaessige Gaeste
+
+## Szenen
+
+## Auftraege
+
+1. **Titel des Auftrags**
+   - **Aufgabe:**
+   - **Erfolgskriterium:**
+   - **Warum:**
+   - **Belohnung:**
+
+## Dienste und Ressourcen
+
+- Was man kaufen kann
+- Nuetzliche Kontakte
+
+## Geheimnisse (intern, nicht oeffentlich)
+
+## Verbindungen
+
+- Verknuepfte Orte
+- Verknuepfte Fraktionen
+
+## Layout und Raeume
+
+- Uebersicht der Bereiche
+- Raumnutzung und Zugaenge
+- Besondere Details pro Raum
+
+## Hintergrund und Details
+
+---
+
+## Template: Faction
+
+# Name der Fraktion
+
+- **Typ**: faction
+- **Sichtbarkeit**: public
+- **Status**: draft
+- **Spoiler-Level**: none
+- **Tags**: faction, greyhawk-campaign
+
+## Ueberblick
+
+- Kernidentitaet
+- Wie sie auf Aussenstehende wirken
+
+## Ziele
+
+- Kurzfristige Ziele
+- Langfristige Ziele
+
+## Methoden und Ressourcen
+
+## Schluesselfiguren
+
+## Verbuendete und Gegner
+
+## Szenen
+
+## Auftraege
+
+1. **Titel des Auftrags**
+   - **Aufgabe:**
+   - **Erfolgskriterium:**
+   - **Warum:**
+   - **Belohnung:**
+
+## Geheimnisse (intern, nicht oeffentlich)
+
+## Verbindungen
+
+---
+
+## Template: Item
+
+# Name des Gegenstands
+
+- **Typ**: item
+- **Sichtbarkeit**: public
+- **Status**: draft
+- **Spoiler-Level**: none
+- **Tags**: item, greyhawk-campaign
+
+## Ueberblick
+
+- Bild oder Kurzbeschreibung
+- Was beim ersten Blick auffaellt
+
+## Sichtbarer Effekt
+
+## Verborgener Effekt (intern, nicht oeffentlich)
+
+## Herkunft und Besitz
+
+## Verbindungen
+
+## Notizen
+
+---
+
+## Template: Scene
+
+# Name der Szene
+
+- **Typ**: scene
+- **Sichtbarkeit**: public
+- **Status**: draft
+- **Spoiler-Level**: low
+- **Tags**: scene, greyhawk-campaign
+
+## Ueberblick
+
+- Szenen-Pitch in einer Zeile
+- Wo und wann
+
+## Ausloeser
+
+## Beteiligte
+
+## Ablaufoptionen
+
+## Ergebnisse und Konsequenzen
+
+## Folgeverweise
+
+## Notizen (intern, nicht oeffentlich)
+
+---
+
+## Template: Quest-Hook
+
+# Name des Aufhaengers
+
+- **Typ**: quest-hook
+- **Sichtbarkeit**: public
+- **Status**: draft
+- **Spoiler-Level**: low
+- **Tags**: quest-hook, greyhawk-campaign
+
+## Ueberblick
+
+- Pitch (1-2 Zeilen)
+- Dringlichkeit
+- Was die Gruppe tun soll
+- Warum das wichtig ist
+- Was die Gruppe bekommt
+
+## Auftraggeber
+
+## Ziel
+
+## Einstiegspunkte
+
+## Komplikation
+
+## Belohnung
+
+## Folgeverweise
+
+---
+
+## Template: Story-Node-Map
+
+# Name der Story-Node-Map
+
+- **Typ**: story-node-map
+- **Sichtbarkeit**: public
+- **Status**: draft
+- **Spoiler-Level**: medium
+- **Tags**: story-node-map, greyhawk-campaign
+
+## Ueberblick
+
+- Umfang (Ort, Region oder Handlungsbogen)
+- Aktuelle Spannung
+
+## Knotenliste
+
+## Klare Spuren
+
+## Vage Spuren
+
+## Geheimnisse (intern, nicht oeffentlich)
+
+## Schnellmatrix (Von -> Fuehrt zu)
+
+## Verbindungen
+
+---
+
+## Template: Session-Note
+
+# Sitzungstitel
+
+- **Typ**: session-note
+- **Sichtbarkeit**: public
+- **Status**: draft
+- **Spoiler-Level**: low
+- **Tags**: session-note, greyhawk-campaign
+
+## Ueberblick
+
+- Datum und Ingame-Zeit
+- Aktuelles Gruppenziel
+
+## Aktuelle Situation
+
+## Gewonnene Informationen
+
+## Offene Faeden
+
+## Naechste moegliche Szenen

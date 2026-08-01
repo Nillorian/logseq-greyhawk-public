@@ -1,11 +1,6 @@
 # Quin'taral
 
 - **Alias**: Quin
-- **Typ**: dnd-pc
-- **Sichtbarkeit**: public
-- **Status**: published
-- **Spoiler-Level**: low
-- **Tags**: dnd-pc, greyhawk-campaign
 
 ![Quin'taral Portrait](../assets/players/quin-taral_take_2.png){: height="250" }
 
@@ -49,9 +44,3 @@
 ## Equipment
 
 - Eyes of Minute Seeing
-
-## Tags
-
-- #dnd-pc
-- #greyhawk-campaign
-- #greyhawk-adventure-party

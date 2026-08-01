@@ -3,21 +3,11 @@
 Diese Vorlagen sind für MkDocs/GitHub Pages optimiert.
 Keine Logseq-Property-Syntax wie type:: oder tags:: verwenden.
 
-## Allgemeines Metadatenformat
-
-Direkt unter der H1-Überschrift:
-
-- **Typ**: dnd-pc | npc | statblock | location | faction | item | scene | quest-hook | story-node-map | session-note
-- **Tags**: kommagetrennte Schlagworte
-
----
-
 ## Template: PC
 
 # Name der Figur
 
-- **Typ**: dnd-pc
-- **Tags**: dnd-pc, greyhawk-campaign
+- **Alias**: Quin
 
 ## Überblick
 
@@ -41,8 +31,6 @@ Direkt unter der H1-Überschrift:
 ## Journals
 
 ## Equipment
-
-## Secrets (intern, nicht öffentlich ausfüllen)
 
 ---
 
@@ -88,43 +76,6 @@ Direkt unter der H1-Überschrift:
 
 ---
 
-## Template: Statblock
-
-# Name des Wesens
-
-- **Typ**: statblock
-- **Tags**: statblock, greyhawk-campaign
-
-## Überblick
-
-- Name und Titel
-- Größe, Typ und Gesinnung
-- RK, TP und Geschwindigkeit
-
-## Werte
-
-- Attributtabelle oder kompakte Wertezeile
-- Rettungswürfe, Fertigkeiten, Sinne, Sprachen
-- Herausforderungsgrad und Übungsbonus
-
-## Eigenschaften
-
-## Zauberwirken
-
-## Aktionen
-
-## Reaktionen
-
-## Ausrüstung
-
-## Taktiken
-
-## Bilder und Quellen
-
-## Verknüpfungen und Notizen
-
----
-
 ## Template: Location
 
 # Name des Ortes
@@ -156,8 +107,6 @@ Direkt unter der H1-Überschrift:
 
 - Was man kaufen kann
 - Nützliche Kontakte
-
-## Geheimnisse (intern, nicht öffentlich)
 
 ## Verbindungen
 
@@ -207,8 +156,6 @@ Direkt unter der H1-Überschrift:
    - **Warum:**
    - **Belohnung:**
 
-## Geheimnisse (intern, nicht öffentlich)
-
 ## Verbindungen
 
 ---
@@ -227,8 +174,6 @@ Direkt unter der H1-Überschrift:
 
 ## Sichtbarer Effekt
 
-## Verborgener Effekt (intern, nicht öffentlich)
-
 ## Herkunft und Besitz
 
 ## Verbindungen
@@ -237,40 +182,9 @@ Direkt unter der H1-Überschrift:
 
 ---
 
-## Template: Scene
+## Template: Quest
 
-# Name der Szene
-
-- **Typ**: scene
-- **Spoiler-Level**: low
-- **Tags**: scene, greyhawk-campaign
-
-## Überblick
-
-- Szenen-Pitch in einer Zeile
-- Wo und wann
-
-## Auslöser
-
-## Beteiligte
-
-## Ablaufoptionen
-
-## Ergebnisse und Konsequenzen
-
-## Folgeverweise
-
-## Notizen (intern, nicht öffentlich)
-
----
-
-## Template: Quest-Hook
-
-# Name des Aufhängers
-
-- **Typ**: quest-hook
-- **Spoiler-Level**: low
-- **Tags**: quest-hook, greyhawk-campaign
+# Name der Quest
 
 ## Überblick
 
@@ -292,29 +206,4 @@ Direkt unter der H1-Überschrift:
 
 ## Folgeverweise
 
----
-
-## Template: Story-Node-Map
-
-# Name der Story-Node-Map
-
-- **Typ**: story-node-map
-- **Spoiler-Level**: medium
-- **Tags**: story-node-map, greyhawk-campaign
-
-## Überblick
-
-- Umfang (Ort, Region oder Handlungsbogen)
-- Aktuelle Spannung
-
-## Knotenliste
-
-## Klare Spuren
-
-## Vage Spuren
-
-## Geheimnisse (intern, nicht öffentlich)
-
-## Schnellmatrix (Von -> Führt zu)
-
-## Verbindungen
+--- 

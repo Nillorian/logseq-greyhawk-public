@@ -1,11 +1,6 @@
 # Brynn Stormgrove
 
 - **Alias**: Brynn
-- **Typ**: dnd-pc
-- **Sichtbarkeit**: public
-- **Status**: published
-- **Spoiler-Level**: none
-- **Tags**: dnd-pc, greyhawk-campaign
 
 ![Brynn Stormgrove Portrait](../assets/players/brynn_stormgrove.png)
 
@@ -46,9 +41,3 @@
 ## Equipment
 
 - Enspelled Cloak with Spell Sanctuary
-
-## Tags
-
-- #dnd-pc
-- #greyhawk-campaign
-- #greyhawk-adventure-party

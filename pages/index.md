@@ -10,7 +10,7 @@ Willkommen im öffentlichen Spielerbereich.
 - [Fraktionen](fraktionen/index.md)
 - [Lore](lore/index.md)
 - [Quests](quests/index.md)
-- [Sitzungen](sitzungen/index.md)
+- [Journals](journals/index.md)
 - [Handouts](handouts/index.md)
 
 ## Vorlagen

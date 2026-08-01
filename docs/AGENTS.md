@@ -1,13 +1,13 @@
-# AGENTS - Regeln und Absichten für den Public Graph
+# AGENTS - Regeln und Absichten für das Public Repository
 
 ## Intent
-Dieser Graph ist für Spieler bestimmt. Ziel ist, veröffentlichbare Informationen aus der Kampagne konsistent, sicher und nachvollziehbar bereitzustellen.
+Dieses Repository ist für Spieler bestimmt. Ziel ist, veröffentlichbare Informationen aus der Kampagne konsistent, sicher und nachvollziehbar bereitzustellen.
 
 ## Kontext
 - Root: /home/nillorian/LogSeq/logseq-greyhawk-public
 - Inhalte in pages/ sind öffentlich.
 - assets/ darf nur Material enthalten, das für Spieler freigegeben ist.
-- Der private Kampagnen-Graph ist die Hauptquelle; dieser Graph ist ein kuratierter Auszug.
+- Der private Kampagnen-Quellbereich ist die Hauptquelle; dieses Repository ist ein kuratierter Auszug.
 
 ## Kernregeln
 1. Keine DM-only Inhalte veröffentlichen.
@@ -42,8 +42,8 @@ Beispiel:
 - **Tags**: greyhawk-campaign, npc
 
 ## Arbeitsablauf für Agenten
-1. Quelle im privaten Graph identifizieren.
-2. Nur sichere Inhalte in den Public Graph übernehmen.
+1. Quelle im privaten Kampagnenbereich identifizieren.
+2. Nur sichere Inhalte in das Public Repository übernehmen.
 3. Seite mit passendem Template aus pages/Templates.md erstellen oder aktualisieren.
 4. Quick-Check vor Abschluss:
    - Keine DM-only Abschnitte ausgefüllt

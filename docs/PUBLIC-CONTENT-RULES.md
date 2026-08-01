@@ -44,7 +44,7 @@ Wenn ein Nachweis fehlt, wird das Asset nicht veröffentlicht.
 ## Seitenformat für GitHub Pages
 
 Für öffentliche Seiten gilt ein MkDocs-kompatibles Markdown-Format:
-- Keine Logseq-Property-Syntax in Seiteninhalten verwenden (z. B. type::, tags::, status::).
+- Keine proprietäre Property-Syntax in Seiteninhalten verwenden (z. B. type::, tags::, status::).
 - Metadaten direkt unter der H1 als normale Markdown-Liste pflegen.
 - Tags als Klartext im Metadatenblock und optional zusätzlich in einem eigenen Abschnitt aufführen.
 - Inhalte in üblichen Markdown-Abschnitten mit Überschriften strukturieren.

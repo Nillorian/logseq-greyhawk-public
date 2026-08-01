@@ -1,4 +1,4 @@
-# GitHub Pages Setup für den Public Graph
+# GitHub Pages Setup für das Public Repository
 
 ## Ziel
 Nach jedem Push auf `main` wird die Seite automatisch gebaut und auf GitHub Pages veröffentlicht.

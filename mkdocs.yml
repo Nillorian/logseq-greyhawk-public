@@ -17,7 +17,6 @@ site_dir: site
 
 plugins:
   - search
-  - roamlinks
 
 markdown_extensions:
   - admonition

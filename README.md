@@ -15,7 +15,7 @@ Dieses Repository enthaelt oeffentliche, spoilerarme Kampagneninhalte fuer Spiel
 
 ### 2) Format beachten
 - Vorlage und Feldnamen: pages/Templates.md
-- Keine Logseq-Properties wie type::, tags::, status:: in oeffentlichen Seiten nutzen.
+- Keine proprietäre Property-Syntax wie type::, tags::, status:: in oeffentlichen Seiten nutzen.
 - Stattdessen sichtbare Metadaten direkt unter der H1 verwenden.
 
 ### 3) Sicherheits- und Copyright-Check

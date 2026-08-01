@@ -1,7 +1,7 @@
 # Templates für Public Pages
 
 Diese Vorlagen sind für MkDocs/GitHub Pages optimiert.
-Keine Logseq-Property-Syntax wie type:: oder tags:: verwenden.
+Keine proprietäre Property-Syntax wie type:: oder tags:: verwenden.
 
 ## Template: PC
 

@@ -1,6 +1,5 @@
 # Charakter-Journale
 
-
 Charakter-Journale aus Spielersicht zu den vergangenen Sitzungen.
 
 ## Einträge
@@ -12,3 +11,4 @@ Charakter-Journale aus Spielersicht zu den vergangenen Sitzungen.
 - [Character Journal 26-05-19 (Taran)](Character%20Journal%2026-05-19%20%28Taran%29.md)
 - [Character Journal 26-06-09 (Brynn)](Character%20Journal%2026-06-09%20%28Brynn%29.md)
 - [Character Journal 26-06-23 (Taran)](Character%20Journal%2026-06-23%20%28Taran%29.md)
+- [Character Journal 26-07-07 (Serina Alston)](Character%20Journal%2026-07-07%20%28Serina%20Alston%29.md)

@@ -7,7 +7,7 @@
 - **Spezies**: Warforged
 - **Klasse**: Barbar / Giants Path
 - **Größe**: Mittelgroß (ca. 1,95 m)
-- **Hintergrund**: -
+- **Hintergrund**: Unbekannt; Rex sucht nach seiner Herkunft
 - **Markantes Feature**: Siegel mit einem achtzackigen Stern auf der Brust; trägt ein Waffenarsenal; Lieblingswaffe: Gleve mit Reichweite
 - **Alter**: wenige Jahre
 
@@ -17,8 +17,9 @@
 
 ## History
 
-- Background.
-- Kann Zwergisch verstehen.
+- Rex ist ein Warforged mit unklarer Herkunft.
+- Er kann Zwergisch verstehen.
+- Er versucht, seine Vergangenheit und das Wesen der Menschen zu verstehen.
 
 ## Motivation und Ziele
 
@@ -33,7 +34,7 @@
 
 ## Journals
 
--
+- [Character Journal 26-08-04 (Rex)](../journals/Character%20Journal%2026-08-04%20%28Rex%29.md)
 
 ## Equipment
 

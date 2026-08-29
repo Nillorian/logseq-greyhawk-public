@@ -50,7 +50,8 @@
 
 ## Beziehungen
 
--
+- Jawsh ist mit einer hochgewachsenen Matriarchin aus Zassil'torr verheiratet. Sie hält Heim, Brut und Stammesdisziplin zusammen, während er jagt, führt und den Sumpf liest.
+- In der Dorfordnung ist Jawsh für Jagd, Führung und Wege zuständig, nicht für die matriarchale Verwaltung.
 
 ## Journals
 

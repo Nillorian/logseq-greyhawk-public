@@ -31,8 +31,8 @@
 
 ## Beziehungen
 
-- Dornir Almyra: Reisender Gelehrter und Anhänger Raos; Brynn traf ihn auf dem Weg nach Greyhawk. Brynn respektiert und mag ihn, weil Dornir alles verkörpert, was Brynn anstrebt zu werden: ruhig, bedacht und doch entschlossen, wenn es darauf ankommt.
-- Kargun Vell: Ehemaliger Clanbruder und Trainingspartner aus den Crystalmist Mountains. Brynn hadert mit ihm; er respektiert Karguns Weisheit, lehnt jedoch seine Überzeugung ab, dass sich die Welt nur durch Gewalt beugen lässt.
+- Dornir Almyra: Reisender Gelehrter und Anhänger Raos; Brynn traf ihn auf dem Weg nach Greyhawk. Brynn respektiert und mag ihn, weil Dornir alles verkörpert, was Brynn anstrebt zu werden: ruhig, bedacht und doch entschlossen, wenn es darauf ankommt. Dornir macht ihm klar, dass Weisheit nicht an Alter oder Tradition gebunden ist.
+- Kargun Vell: Ehemaliger Clanbruder und Trainingspartner aus den Crystalmist Mountains. Brynn hadert mit ihm; er respektiert Karguns Weisheit, lehnt jedoch seine Überzeugung ab, dass sich die Welt nur durch Gewalt beugen lässt. Ihr letztes Gespräch endete ohne Lösung.
 
 ## Journals
 

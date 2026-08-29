@@ -17,7 +17,10 @@
 
 ## History
 
--
+- Inti war Beschützer seines Stammes in einem weit entfernten Wald. Als Fremde eintrafen, wollte er mit ihnen reden statt sie zu bekämpfen.
+- Sein Stamm vertrieb die Fremden; sie kehrten mit einer Armee zurück und zerstörten den Wald.
+- Seitdem will Inti zeigen, dass Zusammenleben besser ist als stures Gegeneinander. Unnötige Gewalt lehnt er ab.
+- Auf seinen Reisen durch die Flanaess traf er die Asbury Champions und schloss sich ihnen an.
 
 
 ## Motivation und Ziele

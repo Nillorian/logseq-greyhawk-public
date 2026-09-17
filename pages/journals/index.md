@@ -13,3 +13,6 @@ Charakter-Journale aus Spielersicht zu den vergangenen Sitzungen.
 - [Character Journal 26-06-23 (Taran)](Character%20Journal%2026-06-23%20%28Taran%29.md)
 - [Character Journal 26-07-07 (Serina Alston)](Character%20Journal%2026-07-07%20%28Serina%20Alston%29.md)
 - [Character Journal 26-08-04 (Rex)](Character%20Journal%2026-08-04%20%28Rex%29.md)
+- [Character Journal 26-08-18 (Rabe)](Character%20Journal%2026-08-18%20%28Rabe%29.md)
+- [Character Journal 26-09-01 (Lys)](Character%20Journal%2026-09-01%20%28Lys%29.md)
+- [Character Journal 26-09-14 (Meane)](Character%20Journal%2026-09-14%20%28Meane%29.md)

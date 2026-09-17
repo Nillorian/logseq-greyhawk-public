@@ -17,6 +17,10 @@ Willkommen im öffentlichen Spielerbereich.
 
 - [Templates](Templates.md)
 
+## Bestiary-Datenbank
+
+- [Erinnerungen und Eindrücke der Spieler an Gegner](https://www.critterdb.com/#/bestiary/view/6a89e42f15443bd5efcd272f)
+
 ## Hinweise
 
 - Dieser Bereich enthält nur freigegebene Spielerinformationen.
